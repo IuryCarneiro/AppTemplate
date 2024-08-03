@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.iurycnro.testeproject
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -9,9 +9,8 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
-import com.google.firebase.FirebaseApp
-import com.jailton.apptemplateproject.baseclasses.Usuario
-import com.jailton.apptemplateproject.databinding.ActivityMainBinding
+import com.iurycnro.testeproject.baseclasses.Usuario
+import com.iurycnro.testeproject.databinding.ActivityMainBinding
 
 
 class MainActivity : AppCompatActivity() {

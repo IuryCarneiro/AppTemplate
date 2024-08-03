@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject.ui.login
+package com.iurycnro.testeproject.ui.login
 
 import android.content.Intent
 import android.os.Bundle
@@ -14,10 +14,10 @@ import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
-import com.jailton.apptemplateproject.MainActivity
-import com.jailton.apptemplateproject.R
-import com.jailton.apptemplateproject.baseclasses.Usuario
-import com.jailton.apptemplateproject.ui.usuario.CadastroUsuarioActivity
+import com.iurycnro.testeproject.MainActivity
+import com.iurycnro.testeproject.R
+import com.iurycnro.testeproject.baseclasses.Usuario
+import com.iurycnro.testeproject.ui.usuario.CadastroUsuarioActivity
 
 class LoginActivity : AppCompatActivity() {
 

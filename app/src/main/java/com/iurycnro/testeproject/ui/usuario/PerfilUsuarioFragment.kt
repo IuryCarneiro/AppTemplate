@@ -1,8 +1,6 @@
-package com.jailton.apptemplateproject.ui.usuario
+package com.iurycnro.testeproject.ui.usuario
 
-import android.content.Context
 import android.os.Bundle
-import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -12,11 +10,10 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
-import com.jailton.apptemplateproject.MainActivity
-import com.jailton.apptemplateproject.R
-import com.jailton.apptemplateproject.baseclasses.Usuario
-import com.jailton.apptemplateproject.databinding.FragmentHomeBinding
-import com.jailton.apptemplateproject.databinding.FragmentPerfilUsuarioBinding
+import com.iurycnro.testeproject.MainActivity
+import com.iurycnro.testeproject.R
+import com.iurycnro.testeproject.baseclasses.Usuario
+import com.iurycnro.testeproject.databinding.FragmentPerfilUsuarioBinding
 
 
 class PerfilUsuarioFragment : Fragment() {
