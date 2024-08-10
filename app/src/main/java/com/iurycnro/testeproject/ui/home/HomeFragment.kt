@@ -31,15 +31,28 @@ import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
+
+
+
+
 import com.iurycnro.testeproject.R
 import com.iurycnro.testeproject.baseclasses.Item
 import com.iurycnro.testeproject.baseclasses.StoreAdapter
 import com.iurycnro.testeproject.databinding.FragmentHomeBinding
+
+
+
+
+
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import java.util.Locale
+
+
+
+
 
 class HomeFragment : Fragment() {
 
